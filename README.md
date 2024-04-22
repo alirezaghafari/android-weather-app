@@ -76,7 +76,7 @@ Here are some screenshots of the MyWeather app:
       <img src="https://github.com/alirezaghafari/android-weather-app/raw/master/screenshots/icon.png" alt="Main Screen" width="200"/>
     </td>
     <td>
-      <strong>My Location</strong><br>
+      <strong>Your Location</strong><br>
       <img src="https://github.com/alirezaghafari/android-weather-app/blob/master/screenshots/myLocation.png" alt="My Location" width="200">
     </td>
     <td>
